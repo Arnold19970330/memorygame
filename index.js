@@ -12,18 +12,18 @@ let firstCard = false;
 let secondCard = false;
 //Items array
 const items = [
-  { name: "alpinejs", image: "/src/img/alpinejs.png" },
-  { name: "bs", image: "/src/img/bootstrap.png" },
-  { name: "css", image: "/src/img/css.png" },
-  { name: "git", image: "/src/img/github.png" },
-  { name: "html", image: "/src/img/html.png" },
-  { name: "sql", image: "/src/img/sql.webp" },
-  { name: "tailwind", image: "/src/img/tailwind.png" },
-  { name: "vuejs", image: "/src/img/vuejs.png" },
-  { name: "vuetify", image: "/src/img/vuetify.webp" },
-  { name: "angular", image: "/src/img/angular.png" },
-  { name: "php", image: "/src/img/php.png" },
-  { name: "js", image: "/src/img/js.png" },
+  { name: "alpinejs", image: "src/img/alpinejs.png" },
+  { name: "bs", image: "src/img/bootstrap.png" },
+  { name: "css", image: "src/img/css.png" },
+  { name: "git", image: "src/img/github.png" },
+  { name: "html", image: "src/img/html.png" },
+  { name: "sql", image: "src/img/sql.webp" },
+  { name: "tailwind", image: "src/img/tailwind.png" },
+  { name: "vuejs", image: "src/img/vuejs.png" },
+  { name: "vuetify", image: "src/img/vuetify.webp" },
+  { name: "angular", image: "src/img/angular.png" },
+  { name: "php", image: "src/img/php.png" },
+  { name: "js", image: "src/img/js.png" },
 ];
 //Initial Time
 let seconds = 0,
